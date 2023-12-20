@@ -1,0 +1,12 @@
+#root {
+  padding: 1rem 4rem 1rem 4rem;
+  flex-grow: 1;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
